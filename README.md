@@ -55,13 +55,13 @@
 </div>
 
 
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashad-jamal&show_icons=true&locale=en&layout=compact" alt="ashad-jamal" />
-  </p>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashad-jamal&show_icons=true&locale=en&layout=compact" alt="ashad-jamal" />
+  </div>
 
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashad-jamal&show_icons=true&locale=en" alt="ashad-jamal" />
-  </p>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ashad-jamal&show_icons=true&locale=en" alt="ashad-jamal" />
+  </div>
 
   <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHAD-JAMAL&theme=dark&hide_border=false" />
