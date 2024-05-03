@@ -26,3 +26,17 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashad-jamal&show_icons=true&locale=en" alt="ashad-jamal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashad-jamal&" alt="ashad-jamal" /></p>
+
+## Profile Counter
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ASHAD-JAMAL/count.svg?"  />
+</div>
+
+###
+
+###
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br clear="both"/>
+<img src="https://raw.githubusercontent.com/ASHAD-JAMAL/ASHAD-JAMAL/output/snake.svg" alt="Snake animation" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
