@@ -25,7 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashad-jamal&show_icons=true&locale=en" alt="ashad-jamal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashad-jamal&" alt="ashad-jamal" /></p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHAD-JAMAL&theme=dark&hide_border=false"  />
