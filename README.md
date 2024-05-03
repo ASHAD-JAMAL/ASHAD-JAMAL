@@ -27,6 +27,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashad-jamal&" alt="ashad-jamal" /></p>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHAD-JAMAL&theme=dark&hide_border=false"  />
+</div>
+
 ## Profile Counter
 
 <div align="center">
