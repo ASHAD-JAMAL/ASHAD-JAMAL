@@ -56,7 +56,7 @@
 
 
   <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?user=ASHAD-JAMAL&theme=dark&hide_border=false"  />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashad-jamal&show_icons=true&locale=en&layout=compact" alt="ashad-jamal"&theme=dark&hide_border=false" />
   </div>
 
   <div align="right">
