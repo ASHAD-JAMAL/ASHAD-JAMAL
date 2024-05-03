@@ -56,11 +56,11 @@
 
 
   <div align="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashad-jamal&show_icons=true&locale=en&layout=compact" alt="ashad-jamal?user=ASHAD-JAMAL&theme=dark&hide_border=false" />
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashad-jamal&show_icons=true&locale=en&layout=compact" alt="ashad-jamal" /></p>
   </div>
 
   <div align="right">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashad-jamal&show_icons=true&locale=en" alt="ashad-jamal?user=ASHAD-JAMAL&theme=dark&hide_border=false"  />
+    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashad-jamal&show_icons=true&locale=en" alt="ashad-jamal" /></p>
   </div>
 
   <div align="center">
@@ -72,3 +72,5 @@
   <div align="center">
     <img src="https://profile-counter.glitch.me/ASHAD-JAMAL/count.svg?" />
   </div>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ashad-jamal&theme=github-compact"/>
