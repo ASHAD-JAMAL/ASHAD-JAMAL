@@ -65,11 +65,5 @@
   <div align="right">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHAD-JAMAL&theme=dark&hide_border=false" />
   </div>
-
-  <h2>Profile Counter</h2>
-
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/ASHAD-JAMAL/count.svg?" />
-  </div>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ashad-jamal&theme=github-compact"/>
