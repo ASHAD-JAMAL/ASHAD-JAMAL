@@ -62,11 +62,6 @@
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashad-jamal&show_icons=true&locale=en&theme=dark&hide" alt="ashad-jamal" /></p>
   </div>
 
-<div align="right">
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashad-jamal&show_icons=true&locale=en&theme=dark&hide" alt="ashad-jamal" /></p>
-</div>
-
-
   <div align="right">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASHAD-JAMAL&theme=dark&hide_border=false" />
   </div>
