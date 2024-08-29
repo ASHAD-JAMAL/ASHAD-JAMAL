@@ -12,7 +12,7 @@
   </p>
 
   <ul>
-    <li>🔭 I’m currently working on <a href="https://ashad-jamal.github.io/skillBridge/">skillBridge</a></li>
+<!--     <li>🔭 I’m currently working on <a href="https://ashad-jamal.github.io/skillBridge/">skillBridge</a></li> -->
     <li>🌱 I’m currently learning <strong>MERN STACK</strong></li>
     <li>👨‍💻 All of my projects are available at <a href="https://my-portfolio-rho-ochre-90.vercel.app/">Personal Portfolio</a></li>
     <li>📫 How to reach me <strong>ashadjamalhyt@gmail.com</strong></li>
